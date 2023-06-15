@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+}
+.offer-course {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.card-text {
+    padding: 0 6px;
+}

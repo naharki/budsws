@@ -8,6 +8,8 @@ import library from '../icons/library-shelf.png';
 
 function Card ()  {
 return(
+  <>
+  <h1 className='facilities-title'>Our Facilities</h1>
   <div className='facilities'>
 <div className="card " style={{width: '18rem'}}>
   <img  src={sport} className="card-img-top" alt="sport" />
@@ -53,6 +55,7 @@ return(
     </div>
 </div>
 </div>
+</>
 )
 }
 export default Card;
