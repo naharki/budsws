@@ -1,7 +1,27 @@
 import "../styles/Our-members.css";
-import Card from "./Card";
 
 function Members() {
+  const details =[
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' },
+    {name : '', position: '', phone: '', photo:'' }
+  ];
+
   return (
     <>
       <h1 className="title">Our Members</h1>
