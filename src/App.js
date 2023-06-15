@@ -1,14 +1,15 @@
 import Card from './components/Card';
 import './App.css';
-import Testomonial from './components/Testomonial';
+import Members from './components/Our-members';
 
 function App() {
   return (
     <div className="App">
-      <Testomonial />
+      <Members />
       <Card />
     </div>
   );
 }
 
 export default App;
+ 
