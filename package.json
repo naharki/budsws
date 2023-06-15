@@ -15,8 +15,12 @@
     "bootstrap": "^5.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-router-dom": "^6.12.1",
     "react-scripts": "5.0.1",
+=======
+    "react-scripts": "^5.0.1",
+>>>>>>> 8c2637b1860ac8d2527a38b33c52f1e2d6d8bb6f
     "styled-components": "^5.3.11",
     "web-vitals": "^2.1.4"
   },
